@@ -1,0 +1,17 @@
+git commit -m "Initial commit with basic project structure and README"
+
+Database UML Diagram:
+Added the UML class diagram for the database structure.
+git commit -m "Added UML class diagram for database structure"
+
+Submit Claim UI:
+Created the basic UI for the lecturer's claim submission page.
+git commit -m "Added submit claim page UI"
+
+Track Status UI:
+Added the UI for tracking the status of submitted claims.
+git commit -m "Created track status page UI and linked it with navigation"
+
+Approval Page:
+Designed the page where program coordinators can approve/reject claims.
+git commit -m "Added approve/reject claim page UI"
